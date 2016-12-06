@@ -1,0 +1,13 @@
+#Maven
+target
+release.properties
+pom.xml.*
+
+#OSX
+.DS_Store
+
+＃Java
+*.class
+src/main/webapp/WEB-INF/classes/*
+
+.idea
